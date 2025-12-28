@@ -79,7 +79,7 @@ To run the fall detection system on a video file, follow these steps:
 ```bash
 python fall_detection.py
 ```
-When choosing input option, if there is the warning InputOptionWarning.jpg , just ignore it and input 1/2.
+When choosing input option, if there is the warning `InputOptionWarning.jpg`, just ignore it and input 1/2.
 
 Before running, make sure to update the video path in `fall_detection.py`:
 
